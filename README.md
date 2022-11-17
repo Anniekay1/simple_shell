@@ -1,1 +1,1 @@
-simple shell project pull
+simple shell project pull promis
